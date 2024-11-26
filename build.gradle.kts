@@ -5,7 +5,7 @@ buildscript {
     }
 
     dependencies {
-        classpath("com.snail.test:MyPlugin:1.0.0")
+        classpath("com.snail.test:MyPlugin:1.0.1")
     }
 }
 
